@@ -24,8 +24,7 @@ img {
   border-radius: 15px;
   margin-left: -100px;
 }
-.mensaje,
-.game-over span {
+.mensaje {
   margin: 0 auto;
   margin-top: 16px;
   margin-bottom: 16px;
@@ -35,7 +34,7 @@ img {
   font-size: 24px;
   color: rgb(214, 243, 109);
 }
-.game-over span {
+.game-over {
   font-size: 30px;
   color: #9f1919;
   text-shadow: 3px 3px 0 #000, -3px 3px 0 #000, -3px -3px 0 #000, 3px -3px 0 #000;
